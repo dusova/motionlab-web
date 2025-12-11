@@ -64,7 +64,7 @@ Flutter Motion Lab, Flutter ile geliştirilen bir mobil uygulamanın showcase'in
 ### 📁 Dosya Yapısı
 
 ```
-proje2/
+htdocs/
 ├── assets/
 │   └── style.css          # Tüm CSS stilleri (tek dosya)
 ├── images/
@@ -104,7 +104,7 @@ proje2/
 
 ```bash
 # Proje klasörünü XAMPP htdocs dizinine kopyalayın
-C:\xampp\htdocs\proje2\
+C:\xampp\htdocs\
 ```
 
 ### Adım 2: XAMPP'ı Başlatın
@@ -240,3 +240,4 @@ Bu proje eğitim amaçlı geliştirilmiştir. Kırklareli Üniversitesi Mobil Uy
 *Kompleks UI & Animasyon Showcase*
 
 </div>
+
